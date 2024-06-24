@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://josseletric.github.io/sitemap
+Sitemap: https://josseletric.github.io/app/sitemap
+Sitemap: https://josseletric.github.io/assets/sitemap
+Sitemap: https://josseletric.github.io/css/sitemap
+Sitemap: https://josseletric.github.io/includes/sitemap
+Sitemap: https://josseletric.github.io/item/sitemap
+Sitemap: https://josseletric.github.io/src/sitemap
